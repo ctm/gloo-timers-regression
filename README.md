@@ -7,7 +7,7 @@ this under trunk, although perhaps I didn't spend enough time trying.
 
 ```
 $ yarn install
-$ yarn dev:start
+$ yarn start:dev
 ```
 
 Look on at http://localhost:8080 and open up the JavaScript console.  Under
